@@ -10,7 +10,7 @@ Este proyecto consiste en el desarrollo de un sistema básico de gestión de mas
 Este programa fue desarrollado utilizando variables, funciones y entradas de datos por teclado. Permite registrar los datos de una mascota (nombre, especie y edad) y mostrarlos de forma organizada, sin utilizar clases ni objetos. 
 
 ## Programa 2: Programación Orientada a Objetos 
-Este programa fue desarrollado utilizando una clase llamada *Mascota*. La clase contiene los atributos nombre, especie y edad, además de los métodos *mostar_informacion()* y *hacer_sonido()*.
+Este programa fue desarrollado utilizando una clase llamada *Mascota*. La clase contiene los atributos nombre, especie y edad, además de los métodos *mostrar_informacion()* y *hacer_sonido()*.
 
 En el programa principal se crean objetos de la clase y se ejecutan sus métodos para mostar la información de cada mascota.
 
