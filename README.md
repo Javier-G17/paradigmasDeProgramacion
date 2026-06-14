@@ -14,6 +14,15 @@ Este programa fue desarrollado utilizando una clase llamada *Mascota*. La clase 
 
 En el programa principal se crean objetos de la clase y se ejecutan sus métodos para mostar la información de cada mascota.
 
+## Estructura del proyecto
+
+programacion_tradicional
+└── tradicional.py
+
+programacion_poo
+├── libro.py
+└── main.py
+
 ## Reflexión
 La principal diferencia encontrada entre la Programación Tradicional y la Programación Orientada a Objetos es la forma en que se organiza el código. 
 
